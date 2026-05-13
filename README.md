@@ -11,7 +11,7 @@ based platforms, for use with OpenEmbedded/Yocto Project Qualcomm BSP layers.
 
 This layer depends on:
 
-```
+```text
 URI: https://github.com/openembedded/openembedded-core.git
 layers: meta
 branch: master
@@ -45,7 +45,6 @@ The only branch that is currently open for direct contributions is **main**,
 for **scarthgap** and **kirkstone** please raise an issue with the suggested
 change instead.
 
-
 ## Communication
 
 - **GitHub Issues:** [meta-qcom-distro issues](https://github.com/qualcomm-linux/meta-qcom-distro/issues)
@@ -53,11 +52,11 @@ change instead.
 
 ## Maintainer(s)
 
-* Sourabh Banerjee <quic_sbanerje@quicinc.com>
-* Viswanath Kraleti <quic_vkraleti@quicinc.com>
-* Ricardo Salveti <ricardo.salveti@oss.qualcomm.com>
-* Nicolas Dechesne <nicolas.dechesne@oss.qualcomm.com>
-* Dmitry Baryshkov <dmitry.baryshkov@oss.qualcomm.com>
+- Sourabh Banerjee <quic_sbanerje@quicinc.com>
+- Viswanath Kraleti <quic_vkraleti@quicinc.com>
+- Ricardo Salveti <ricardo.salveti@oss.qualcomm.com>
+- Nicolas Dechesne <nicolas.dechesne@oss.qualcomm.com>
+- Dmitry Baryshkov <dmitry.baryshkov@oss.qualcomm.com>
 
 ## License
 
